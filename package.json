@@ -1,6 +1,6 @@
 {
   "name": "vue-tree-down",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-tree-down",
   "main": "lib/index.js",
   "scripts": {
