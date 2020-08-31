@@ -4,7 +4,7 @@
 ```js
 1.import TreeDown from "vue-tree-down"
 2.components: {
-    TreeRight,
+    TreeDown,
   }
 3.list: [//datasource
         {
