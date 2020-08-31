@@ -1,0 +1,24 @@
+{
+  "name": "vue-tree-down",
+  "version": "1.0.0",
+  "description": "vue-tree-down",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyuhaoliar/vue-tree-down.git"
+  },
+  "keywords": [
+    "vue-tree",
+    "vue-tree-down",
+    "vue-flow"
+  ],
+  "author": "yuhao_zhu@yeah.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuyuhaoliar/vue-tree-down/issues"
+  },
+  "homepage": "https://github.com/zhuyuhaoliar/vue-tree-down#readme"
+}
